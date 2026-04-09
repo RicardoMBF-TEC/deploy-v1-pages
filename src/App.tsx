@@ -7,6 +7,7 @@ const notes = [
   "Pipeline de calidad activo",
   "Promocion controlada de develop a staging",
   "Despliegue de staging en GitHub Pages",
+  "Cambio visible desde develop"
 ];
 
 export default function App() {
